@@ -11,22 +11,22 @@ This project predicts customer churn using machine learning, enabling proactive 
 
 ## 🏗️ Project Structure
 
-telco_churn_project /
-├── src /
-│ ├── config.py # Configuration
-│ ├── data_loader.py # Data loading
-│ ├── eda.py # Exploratory analysis
-│ ├── feature_engineering.py # Feature creation
-│ ├── preprocess.py # Preprocessing pipeline
-│ ├── train.py # Model training
-│ ├── evaluate.py # Evaluation & threshold tuning
-│ ├── interpret.py # SHAP analysis
-│ └── predict.py # Prediction interface
-├── models / # Saved models
-├── reports / # Plots and reports
-├── data / # Dataset
-├── requirements.txt
-└── run_pipeline.py # Main orchestration script
+telco_churn_project/ <br>
+├── src/ <br>
+│ ├── config.py # Configuration <br>
+│ ├── data_loader.py # Data loading <br>
+│ ├── eda.py # Exploratory analysis <br>
+│ ├── feature_engineering.py # Feature creation <br>
+│ ├── preprocess.py # Preprocessing pipeline <br>
+│ ├── train.py # Model training <br>
+│ ├── evaluate.py # Evaluation & threshold tuning <br>
+│ ├── interpret.py # SHAP analysis <br>
+│ └── predict.py # Prediction interface <br>
+├── models/ # Saved models <br>
+├── reports/ # Plots and reports <br>
+├── data/ # Dataset <br>
+├── requirements.txt <br>
+└── run_pipeline.py # Main orchestration script <br>
 
 
 ## 🚀 Quick Start
@@ -101,7 +101,7 @@ ROC curve
 Confusion matrix
 SHAP summary plots
 Threshold tuning plots
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python 3.10+
 pandas, numpy - Data manipulation
@@ -113,21 +113,22 @@ matplotlib, seaborn - Visualization
 joblib - Model serialization
 ## 📝 Key Features
 
-✅ Modular, production-ready code
-✅ Comprehensive preprocessing pipeline (prevents data leakage)
-✅ SMOTE for handling class imbalance
-✅ Hyperparameter tuning with cross-validation
-✅ Threshold optimization (F1 and cost-based)
-✅ Model interpretability with SHAP
-✅ Business-focused evaluation
-✅ Easy prediction interface
-🤝 Contributing
+✅ Modular, production-ready code <br>
+✅ Comprehensive preprocessing pipeline (prevents data leakage) <br>
+✅ SMOTE for handling class imbalance <br>
+✅ Hyperparameter tuning with cross-validation <br>
+✅ Threshold optimization (F1 and cost-based) <br>
+✅ Model interpretability with SHAP <br>
+✅ Business-focused evaluation <br>
+✅ Easy prediction interface  <br>
+🤝 Contributing 
 
 This project was built for educational purposes. Feel free to fork and experiment!
 
 📧 Contact
 
-Your Name - Shreyan Nandanwar \
+Your Name - Shreyan Nandanwar 
+
 Email - nandanwar.d.shreyan@gmail.com
 
 📄 License
