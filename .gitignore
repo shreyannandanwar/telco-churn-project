@@ -27,8 +27,6 @@ data/processed_data.csv
 models/*.pkl
 models/*.joblib
 
-# Reports / figures (generated at runtime)
-reports/figures/*.png
 
 # Environment variables
 .env
