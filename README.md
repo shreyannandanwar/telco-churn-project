@@ -11,8 +11,8 @@ This project predicts customer churn using machine learning, enabling proactive 
 
 ## 🏗️ Project Structure
 
-telco_churn_project/
-├── src/
+telco_churn_project /
+├── src /
 │ ├── config.py # Configuration
 │ ├── data_loader.py # Data loading
 │ ├── eda.py # Exploratory analysis
@@ -22,9 +22,9 @@ telco_churn_project/
 │ ├── evaluate.py # Evaluation & threshold tuning
 │ ├── interpret.py # SHAP analysis
 │ └── predict.py # Prediction interface
-├── models/ # Saved models
-├── reports/ # Plots and reports
-├── data/ # Dataset
+├── models / # Saved models
+├── reports / # Plots and reports
+├── data / # Dataset
 ├── requirements.txt
 └── run_pipeline.py # Main orchestration script
 
@@ -127,7 +127,7 @@ This project was built for educational purposes. Feel free to fork and experimen
 
 📧 Contact
 
-Your Name - Shreyan Nandanwar
+Your Name - Shreyan Nandanwar \
 Email - nandanwar.d.shreyan@gmail.com
 
 📄 License
